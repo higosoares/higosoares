@@ -14,7 +14,7 @@ Confesso que já tenho um carinho especial pelo Laravel no qual utilizo há algu
 -   **[Laravel Framework](https://laravel.com/)**
 -   **[Oauth](https://oauth.net/2/)**
 -   **[PHPUnit](https://phpunit.de/)**
--   
+
 Entre outras ...
 
 Experiências e demais infos 👇🏼
